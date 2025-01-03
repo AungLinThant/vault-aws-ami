@@ -1,0 +1,10 @@
+2025/01/01 23:04:47 [INFO] Packer version: 1.11.2 [go1.21.12 darwin amd64]
+2025/01/01 23:04:47 [INFO] PACKER_CONFIG env var not set; checking the default config file path
+2025/01/01 23:04:47 [INFO] PACKER_CONFIG env var set; attempting to open config file: /Users/mac/.packerconfig
+2025/01/01 23:04:47 [WARN] Config file doesn't exist: /Users/mac/.packerconfig
+2025/01/01 23:04:47 [INFO] Setting cache directory: /Users/mac/.cache/packer
+2025/01/01 23:04:47 [TRACE] init: plugingetter.ListInstallationsOptions{PluginDirectory:"/Users/mac/.config/packer/plugins", BinaryInstallationOptions:plugingetter.BinaryInstallationOptions{APIVersionMajor:"", APIVersionMinor:"", OS:"darwin", ARCH:"amd64", Ext:"", Checksummers:[]plugingetter.Checksummer{plugingetter.Checksummer{Type:"sha256", Hash:(*sha256.digest)(0xc00054a100)}}, ReleasesOnly:false}}
+2025/01/01 23:04:47 [TRACE] listing potential installations for <nil> that match "". plugingetter.ListInstallationsOptions{PluginDirectory:"/Users/mac/.config/packer/plugins", BinaryInstallationOptions:plugingetter.BinaryInstallationOptions{APIVersionMajor:"", APIVersionMinor:"", OS:"darwin", ARCH:"amd64", Ext:"", Checksummers:[]plugingetter.Checksummer{plugingetter.Checksummer{Type:"sha256", Hash:(*sha256.digest)(0xc00054a100)}}, ReleasesOnly:false}}
+2025/01/01 23:04:47 ui: /Users/mac/.config/packer/plugins/github.com/hashicorp/amazon/packer-plugin-amazon_v1.3.4_x5.0_darwin_amd64
+2025/01/01 23:04:47 [INFO] (telemetry) Finalizing.
+2025/01/01 23:04:48 waiting for all plugin processes to complete...

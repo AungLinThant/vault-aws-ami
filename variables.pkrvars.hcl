@@ -1,0 +1,5 @@
+owner = "alt"
+aws_region = "ap-southeast-1"
+aws_profile = "vault_packer"
+vault_version = "1.17.0-1"
+aws_instance_type = "t2.micro"
